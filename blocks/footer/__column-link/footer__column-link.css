@@ -1,0 +1,18 @@
+.footer__column-link {
+  margin-top: 10px;
+  line-height: 18px;
+  font-size: 18px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #f2f2f2;
+}
+
+.footer__column-link:first-of-type {
+  margin-top: 20px
+}
+
+
+.footer__column-link:hover {
+  transition: 0.5s ease-in-out;
+  color: #adadad;
+}

@@ -1,0 +1,14 @@
+.header__link {
+  text-decoration: none;
+  color: #2f80ed;
+}
+
+.header__link:hover {
+  transition: 0.5s ease-in-out;
+  color: #0400ff;
+}
+
+.header__link:not(hover) {
+  transition: 0.3s ease-in-out;
+  color: #2f80ed;
+}
